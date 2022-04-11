@@ -1,6 +1,6 @@
 /*
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/62895635773387
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
+global.owner = ['62895635773387']
+global.premium = ['62895635773387']
+global.ownernomer = '62895635773387'
+global.ownername = 'Raja-Xzy'
+global.botname = '© Raja-XBod'
+global.footer = '© Raja-Xzy'
 global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.email = 'tommylegends2@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
-global.author = 'WhatsApp Bot'
+global.packname = 'Raja-Xzy'
+global.author = '© R-Txzy'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
